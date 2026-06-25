@@ -1,4 +1,4 @@
-# 🤖 AetherML — Autonomous Human-in-the-Loop AutoML Platform
+# 🤖 OmniML — Autonomous Human-in-the-Loop AutoML Platform
 
 > **OmniML** is an AI-powered autonomous machine learning platform that automates the complete ML lifecycle using a multi-agent LangGraph workflow. From dataset analysis and model training to hyperparameter optimization, explainability, and report generation, OmniML acts as an intelligent Machine Learning Engineer while keeping humans in control through interactive dashboards.
 
