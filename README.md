@@ -218,7 +218,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
 ### Configure Environment Variables
 
 Create a `.env` file:
