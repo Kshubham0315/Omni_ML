@@ -299,7 +299,6 @@ Final Results
 ---
 
 ## 🌟 Why OmniML?
-
 * Autonomous ML Workflow
 * Multi-Agent Architecture
 * Interactive Dashboards
