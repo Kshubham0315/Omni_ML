@@ -2,6 +2,7 @@ import sys
 import weakref
 
 # AnyIO Python 3.14 None-Task Patch
+
 class TaskStateDict:
     def __init__(self):
         self.wd = weakref.WeakKeyDictionary()
